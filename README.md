@@ -3,7 +3,7 @@
 I'm a Front-End Developer  💻. I decided to start programming in 2020, because I like the idea of creating web applications by myself, and that people can use them in their daily lives 🌎. 
 
 #### About me:
-I like to work with these technologies 👇
+I work with these technologies 👇
 
 ✅ Languages : JavaScript, HTML, CSS.
 
