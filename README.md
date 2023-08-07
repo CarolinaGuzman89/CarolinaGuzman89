@@ -1,6 +1,6 @@
 ## Hi there, I'm Carolina 👋 👩‍💻
 
-I'm a Front-End Developer  💻. I decided to start programming in 2020, because I like the idea of creating web applications by myself, and that people can use them in their daily lives 🌎. 
+I'm a Front-End Developer  💻. I decided to start programming in 2021, because I like the idea of creating web applications by myself, and that people can use them in their daily lives 🌎. 
 
 #### About me:
 I work with these technologies 👇
