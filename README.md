@@ -14,6 +14,6 @@ I work with these technologies 👇
 ### Get in touch:
 📨  cguzmanvazq@gmail.com
 
-🖥️ [Linkedin](https://www.linkedin.com/in/carolinaguzmandev/)
+💻 [Linkedin](https://www.linkedin.com/in/carolinaguzmandev/)
 
 🐦 [Twitter](https://twitter.com/CaroEunice_) 
