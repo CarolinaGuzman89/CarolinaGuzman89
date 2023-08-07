@@ -13,4 +13,4 @@ I work with these technologies 👇
 
 ### Get in touch:
 📨  cguzmanvazq@gmail.com
-
+🐦 [twitter](https://twitter.com/CaroEunice_) 
