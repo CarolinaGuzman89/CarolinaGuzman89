@@ -12,7 +12,6 @@ I work with these technologies 👇
 ✳️ Tools: Git, Github, Command Line, Node, Vite.
 
 ### Get in touch:
-📨  cguzmanvazq@gmail.com
 
 💻 [Linkedin](https://www.linkedin.com/in/carolinaguzmandev/)
 
