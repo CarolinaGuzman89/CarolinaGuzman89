@@ -7,7 +7,7 @@ I work with these technologies 👇
 
 ✅ Languages : JavaScript, HTML, CSS.
 
-❇️ Frameworks: React, Tailwind. 
+❇️ Frameworks: React, NextJs, Tailwind. 
 
 ✳️ Tools: Git, Github, Command Line, Node, Vite.
 
